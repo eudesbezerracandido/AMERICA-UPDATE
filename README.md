@@ -1,7 +1,7 @@
 # AMERICA-UPDATE
 
 <item>
-<title>[COLOR silver][B] AMÉRICA- PROTEÇÃO VEICULAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] AMÉRICA- PROTEÇÃO VEICULAR [/COLOR][/B][COLOR yellow] PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
 <link></link>
 <thumbnail>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
@@ -9,7 +9,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] AMÉRICA- PROTEÇÃO VEICULAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] AMÉRICA- PROTEÇÃO VEICULAR [/COLOR][/B][COLOR yellow]  PROTEÇÃO VEICULAR [B][/COLOR][/B]</title>
 <link></link>
 <thumbnail>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
@@ -17,7 +17,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] AMÉRICA- PROTEÇÃO VEICULAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] AMÉRICA- PROTEÇÃO VEICULAR [/COLOR][/B][COLOR yellow]  PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
 <link></link>
 <thumbnail>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
