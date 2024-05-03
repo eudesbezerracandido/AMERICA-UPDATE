@@ -1,7 +1,7 @@
 # AMERICA-UPDATE
 
 <item>
-<title>[COLOR silver][B] VEM PARA AMÉRICA VEM [/COLOR][/B][COLOR yellow] PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
+<title>[COLOR yellow][B] VEM PARA AMÉRICA VEM [/COLOR][/B][COLOR  silver] PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
 <link></link>
 <thumbnail>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
@@ -9,7 +9,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] ASSISTÊNCIA 24H [/COLOR][/B][COLOR yellow]  PROTEÇÃO VEICULAR [B][/COLOR][/B]</title>
+<title>[COLOR yellow][B] ASSISTÊNCIA 24H [/COLOR][/B][COLOR silver]  PROTEÇÃO VEICULAR [B][/COLOR][/B]</title>
 <link>https://archive.org/details/assistencia-america-1</link>
 <thumbnail>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
@@ -17,7 +17,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] A DIFERENÇA ENTRE- ASSOCIAÇÃO & SEGURADORA [/COLOR][/B][COLOR yellow]  PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
+<title>[COLOR yellow][B] A DIFERENÇA ENTRE- ASSOCIAÇÃO & SEGURADORA [/COLOR][/B][COLOR silver]  PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
 <link></link>
 <thumbnail>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] A DIFERENÇA [/COLOR][/B][COLOR yellow]  PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
+<title>[COLOR  yellow][B] A DIFERENÇA [/COLOR][/B][COLOR silver]  PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
 <link></link>
 <thumbnail>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
@@ -33,7 +33,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] AAAPV - COMO FUNCIONA [/COLOR][/B][COLOR yellow]  PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
+<title>[COLOR  yellow][B] AAAPV - COMO FUNCIONA [/COLOR][/B][COLOR silver]  PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
 <link></link>
 <thumbnail>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
