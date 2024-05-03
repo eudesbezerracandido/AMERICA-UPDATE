@@ -33,8 +33,8 @@
 </item>
 
 <item>
-<title>[COLOR  yellow][B] AAAPV - COMO FUNCIONA [/COLOR][/B][COLOR silver]  PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
-<link></link>
+<title>[COLOR  yellow][B] AAAPV - COMO FUNCIONA - PROTEÇÃO VEICULAR [/COLOR][/B][COLOR silver]  PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/aaapv-protecao/Como%20funciona%20a%20Prote%C3%A7%C3%A3o%20Veicular-.mp4</link>
 <thumbnail>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>A AAAPV (Agência de Autorregulamentação das Entidades de Autogestão de Planos de Proteção Contra Riscos Patrimoniais) é a principal entidade representativa do setor associativista. Fundada em 26 de abril de 2016, não tem fins econômicos, mas sim o compromisso de fortalecer o movimento associativista e suas relações com a sociedade, além de contribuir para o desenvolvimento econômico, social e sustentável do País.</info>
