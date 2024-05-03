@@ -1,7 +1,7 @@
 # AMERICA-UPDATE
 
 <item>
-<title>[COLOR yellow][B] VEM PARA AMÉRICA VEM [/COLOR][/B][COLOR  silver] PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
+<title>[COLOR yellow][B] AMÉRICA -  4 MOTIVOS PARA ADERIR [/COLOR][/B][COLOR  silver] PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/vem-para-america-vem/VEM%20PARA%20AMERICA%20VEM.mp4</link>
 <thumbnail>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
@@ -25,8 +25,8 @@
 </item>
 
 <item>
-<title>[COLOR  yellow][B] A DIFERENÇA [/COLOR][/B][COLOR silver]  PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
-<link></link>
+<title>[COLOR  yellow][B] SAIBA A DIFERENÇA -  ASSOCIAÇÃO  VS  SEGURADORAS [/COLOR][/B][COLOR silver]  PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/protecao-pv-vs-seguradoras/Prote%C3%A7%C3%A3oPV%20vs%20seguradoras.mp4</link>
 <thumbnail>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>A associação cobrará o valor mensal relativo à taxa administrativa e ao rateio daquilo que foi pago no mês anterior. A seguradora, por sua vez, cobrará um valor fixo que poderá ser pago de uma só vez ou parcelado.</info>
