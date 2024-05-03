@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>[COLOR  yellow][B] SAIBA A DIFERENÇA -  ASSOCIAÇÃO  VS  SEGURADORAS [/COLOR][/B][COLOR silver]  PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
+<title>[COLOR  yellow][B] SAIBA A DIFERENÇA -  ASSOCIAÇÃO  VS  SEGURADORA [/COLOR][/B][COLOR silver]  PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/protecao-pv-vs-seguradoras/Prote%C3%A7%C3%A3oPV%20vs%20seguradoras.mp4</link>
 <thumbnail>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
