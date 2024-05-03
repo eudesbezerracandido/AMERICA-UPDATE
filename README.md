@@ -25,8 +25,16 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] AAAPV [/COLOR][/B][COLOR yellow]  PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] A DIFERENÇA [/COLOR][/B][COLOR yellow]  PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/america-proteca-o/Am%C3%A9rica-PROTE%C3%87%C3%83O.mp4</link>
+<thumbnail>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>A associação cobrará o valor mensal relativo à taxa administrativa e ao rateio daquilo que foi pago no mês anterior. A seguradora, por sua vez, cobrará um valor fixo que poderá ser pago de uma só vez ou parcelado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AAAPV [/COLOR][/B][COLOR yellow]  PROTEÇÃO VEICULAR  [B][/COLOR][/B]</title>
+<link></link>
 <thumbnail>https://ia800306.us.archive.org/33/items/america-protecao-veicular/logo-america-protecao-veicular.png</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>A AAAPV (Agência de Autorregulamentação das Entidades de Autogestão de Planos de Proteção Contra Riscos Patrimoniais) é a principal entidade representativa do setor associativista. Fundada em 26 de abril de 2016, não tem fins econômicos, mas sim o compromisso de fortalecer o movimento associativista e suas relações com a sociedade, além de contribuir para o desenvolvimento econômico, social e sustentável do País.</info>
